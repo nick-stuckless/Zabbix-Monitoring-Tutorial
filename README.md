@@ -49,8 +49,6 @@ A simple web check is created to generate events and demonstrate Zabbix’s web 
 
 8. Exploring Dashboards
 
-Screenshots and commentary show:
-
     - Global dashboards
 
     - Problem logs
@@ -59,4 +57,4 @@ Screenshots and commentary show:
 
     - Web scenario results
 
-A custom dashboard created during the lab
+    - A custom dashboard created during the lab
