@@ -1,13 +1,13 @@
-# Zabbix-Monitoring-Tutorial
+# Overview
 
-Overview
 This repository contains a walkthrough of deploying a full Zabbix monitoring environment using two Ubuntu virtual machines:
 one acting as the Zabbix Server and the other as a LAMP stack monitored host.
 The lab demonstrates how to install, configure, and validate a working monitoring setup using modern Zabbix components.
 
 The accompanying document includes screenshots, configuration notes, troubleshooting steps, and reflections on the process.
 
-What This Lab Covers
+# What This Lab Covers
+
 The full write‑up walks through the following major stages:
 
 1. Preparing the Environment
