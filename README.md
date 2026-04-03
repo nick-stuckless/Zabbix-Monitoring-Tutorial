@@ -14,7 +14,6 @@ The full write‑up walks through the following major stages:
 Updating both VMs, confirming connectivity, and ensuring the base system is ready for monitoring.
 
 2. Installing Required Components
-A high‑level overview of installing:
 
     - MySQL
 
@@ -27,8 +26,6 @@ A high‑level overview of installing:
 The document explains the purpose of each component and how they interact.
 
 3. Database & Server Configuration
-
-A summary of:
 
     - Creating the Zabbix database
 
