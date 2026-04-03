@@ -27,6 +27,7 @@ A high‑level overview of installing:
 The document explains the purpose of each component and how they interact.
 
 3. Database & Server Configuration
+
 A summary of:
 
     - Creating the Zabbix database
@@ -50,6 +51,7 @@ Explains how the agent is added through the GUI and how Zabbix begins collecting
 A simple web check is created to generate events and demonstrate Zabbix’s web monitoring capabilities.
 
 8. Exploring Dashboards
+
 Screenshots and commentary show:
 
     - Global dashboards
