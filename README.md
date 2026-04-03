@@ -16,26 +16,26 @@ Updating both VMs, confirming connectivity, and ensuring the base system is read
 2. Installing Required Components
 A high‑level overview of installing:
 
-MySQL
+    - MySQL
 
-Zabbix Server
+    - Zabbix Server
 
-Zabbix Frontend
+    - Zabbix Frontend
 
-Zabbix Agent
+    - Zabbix Agent
 
 The document explains the purpose of each component and how they interact.
 
 3. Database & Server Configuration
 A summary of:
 
-Creating the Zabbix database
+    - Creating the Zabbix database
 
-Creating the Zabbix DB user
+    - Creating the Zabbix DB user
 
-Importing the initial schema
+    - Importing the initial schema
 
-Updating Zabbix server configuration
+    - Updating Zabbix server configuration
 
 4. Agent Deployment on the LAMP Host
 Covers installing the Zabbix Agent, configuring Apache for monitoring, and enabling communication between the two machines.
@@ -52,12 +52,12 @@ A simple web check is created to generate events and demonstrate Zabbix’s web 
 8. Exploring Dashboards
 Screenshots and commentary show:
 
-Global dashboards
+    - Global dashboards
 
-Problem logs
+    - Problem logs
 
-Host metrics
+    - Host metrics
 
-Web scenario results
+    - Web scenario results
 
 A custom dashboard created during the lab
